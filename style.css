@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+    color: seagreen;
+}
+.heading{
+    font-size:30px;
+    width: 25%;
+}
+.name_of_objects{
+    color: steelblue;
+    font-size: 20px;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
